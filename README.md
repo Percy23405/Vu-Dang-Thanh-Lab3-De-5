@@ -19,7 +19,7 @@ Repository chứa mã nguồn mô phỏng Wokwi và giao diện Web. Báo cáo W
    - `VuDangThanh_nhom5/fall/data` (ESP32 → Web)
    - `VuDangThanh_nhom5/fall/led` (Web → ESP32)
    - `VuDangThanh_nhom5/fall/buzzer` (Web → ESP32)
-
+6. Giao diện web: 
 ## Chân kết nối
 - MPU6050: SDA GPIO21, SCL GPIO22, VCC 3V3, GND GND.
 - LED: GPIO26 qua điện trở hạn dòng.
